@@ -1,3 +1,2 @@
 # EShop_Simulation
-Implementation of an EShop model simulation in Java\
-
+Implementation of an EShop model simulation in Java
